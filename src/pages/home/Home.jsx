@@ -1,6 +1,6 @@
-import Featured from "../components/featured/Featured"
-import List from "../components/list/list"
-import Navbar from "../components/navbar/Navbar"
+import Featured from "../../components/featured/Featured"
+import List from "../../components/list/list"
+import Navbar from "../../components/navbar/Navbar"
 import "./home.scss"
 
 

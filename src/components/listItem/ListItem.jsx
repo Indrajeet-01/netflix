@@ -27,7 +27,7 @@ function ListItem({index}) {
           <span>1999</span>
         </div>
         <div className="desc">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis ex, vitae doloremque autem omnis voluptatibus non hic voluptatem odit quas nulla asperiores culpa voluptatum harum accusamus corporis. Nemo, veniam consequuntur.
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae adipisci repellendus saepe deleniti voluptatem voluptas? 
         </div>
         <div className="genre">Action</div>
       </div>
